@@ -1,1 +1,1 @@
-Noh's division project thah predics from hits of baseball
+Noh's division project that predicts from shooting of penalty shoot-out
