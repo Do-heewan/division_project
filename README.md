@@ -1,1 +1,4 @@
-Noh's division project that predicts from shooting of penalty shoot-out
+# 키커의 특징에 따른 프리킥 성공율 예측
+
+## 개요
+- 울산대학교 IT융합학부 학술동아리 Division 에서 진행한 프로젝트 입니다.
